@@ -1,0 +1,18 @@
+# 🎓 Graduation Project Management Platform  
+*A Laravel-based web application to streamline college graduation projects, connecting students, advisors, and academic committees.*
+
+## 🔍 Overview  
+This platform simplifies the management of graduation projects by digitizing submissions, evaluations, and feedback. It replaces manual processes with an automated, transparent workflow for all stakeholders.
+
+## ✨ Key Features  
+- **Role-Based Access Control**:  
+  - **Students**: Submit proposals, upload progress, and receive feedback.  
+  - **Advisors**: Review projects, provide comments, and track progress.  
+  - **Committee Heads**: Approve projects, assign advisors, and finalize evaluations.  
+- **Document Management**: Secure uploads for proposals, reports, and deliverables.  
+- **Real-Time Notifications**: Email/alert system for deadlines and feedback.  
+- **Evaluation Dashboard**: Track project status and grades.  
+
+## 🛠️ Built With  
+- **Backend**: Laravel 11 (PHP)  
+- **Database**: MySQL  
